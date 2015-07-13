@@ -1,0 +1,1 @@
+Este proyecto es una copia del proyecto Random ubicado en la URL  https://github.com/jquemada/random GITHUB
